@@ -1,0 +1,4 @@
+perl ../LPIA/PNL.pl testDon.txt ../DBs/GO-Entrez_list-P.15-350.txt ../DBs/KEGG_entrez_MSigDB_4_0.txt abs > testDon.bpg
+
+# examples
+perl ../LPIA/PNL.pl ../IN/CNV.P.rem_1TtoNN.DO16109.txt ../DBs/GO-Entrez_list-P.15-350.txt ../DBs/KEGG_entrez_MSigDB_4_0.txt abs > PNL_CNV.P.rem_1TtoNN.DO16109.bpg
